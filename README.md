@@ -120,4 +120,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - Built with React and TailwindCSS
 - Drag and drop functionality powered by dnd-kit
-- AI explanations powered by OpenAI
+- AI explanations powered by OpenAI (GPT)
+- Thank you Jose for being patient and a great prof, sorry it has taken me so long
